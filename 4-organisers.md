@@ -6,7 +6,7 @@ nav: true
 # Organising Committee
 <table>
   <tr>
-    <td><img src="/images/pablo.jpg" width="500px;" /></td>
+    <td><img src="/images/pablo.jpg" width="5000px;" /></td>
     <td><p><a href="#/">Pablo Barros</a> is</p></td>
   </tr>
   <tr>
