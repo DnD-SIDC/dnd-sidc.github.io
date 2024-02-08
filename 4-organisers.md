@@ -5,13 +5,14 @@ nav: true
 
 # Organizing Committee
 
-<div>{% include figure_left.html img="pablo.jpg" alt="Pablo" width="24%" %}
-<p style="float: right;width=50%"><a href="#/">Pablo Barros</a> is </p>
-</div>
+{% include figure_left.html img="pablo.jpg" alt="Pablo" width="24%" %}
+<a href="#/">Pablo Barros</a> is
 
 <br/>
-{% include figure_left.html img="nikhil.jpg" alt="Nikhil" width="25%" %}
-<p style="float: right;width=75%"><a href="https://nchuramani.github.io" target="_blank">Nikhil Churamani</a> is currently a Post-Doctoral Research Assistant at the Affective Intelligence and Robotics (AFAR) Laboratory of the Department of Computer Science and Technology, University of Cambridge. He completed his PhD on “Continual Learning for Affective Robotics” at the AFAR Lab, University of Cambridge where he was funded by the EPSRC International Doctoral Scholarship and the Premium Research Studentship of the department. His research interests include Affective Computing, Continual Learning, Computer Vision, Deep Learning and Human-Robot Interaction. His current research focuses on Continual Learning for Affective Robotics investigating Continual Lifelong Learning of Affect for social robots and Federated Continual Learning of Socially Appropriate Robot behaviours, focused on Human-Robot Interaction and affect-driven learning.</p>
+
+![image-left]({{ site.url }}{{ site.baseurl }}/images/pablo.jpg){: .align-left style="width:200px;"}
+<a href="https://www.cl.cam.ac.uk/~nc528/">Nikhil Churamani</a> is currently a Post-Doctoral Research Assistant at the Affective Intelligence and Robotics (AFAR) Laboratory of the Department of Computer Science and Technology, University of Cambridge. He completed his PhD on “Continual Learning for Affective Robotics” at the AFAR Lab, University of Cambridge where he was funded by the EPSRC International Doctoral Scholarship and the Premium Research Studentship of the department. His research interests include Affective Computing, Continual Learning, Computer Vision, Deep Learning and Human-Robot Interaction. His current research focuses on Continual Learning for Affective Robotics investigating Continual Lifelong Learning of Affect for social robots and Federated Continual Learning of Socially Appropriate Robot behaviours, focused on Human-Robot Interaction and affect-driven learning.
+
 
 
 
