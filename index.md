@@ -4,7 +4,7 @@ title: Home
 
 # Dungeons, Neurons, and Dialogues: Social Dynamics and Interaction in Contextual Games" (DnD-SDIC!
 
-{% include figure.html img="rob_dnd.jpeg" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="rob_dnd.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
 
 The "Dungeons, Neurons, and Dialogues: Social Dynamics and Interaction in Contextual Games" (DnD-SDIC) workshop aims to explore the forefront of affective computing by integrating advanced computational, psychological, and interaction solutions into context-based game interactions to simulate and analyze complex social interactions and dynamics. This workshop is proposed for the Affective Computing and Intelligent Interaction (ACII) 2024 conference, reflecting its mission to advance research in intelligent systems that can perceive, express, or utilize affective phenomena.
 
