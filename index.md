@@ -1,6 +1,5 @@
 ---
 title: Home
-nav: true
 ---
 
 # Dungeons, Neurons, and Dialogues: Social Dynamics and Interaction in Contextual Games"
