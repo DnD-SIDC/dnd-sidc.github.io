@@ -3,45 +3,33 @@ title: Call for Papers
 nav: true
 ---
 
-# Get Started
+<br>
 
-The `workshop-template` [repository](https://github.com/evanwill/workshop-template) is a template project--to get started quickly, make a copy and fill in your own content and customizations.
-This [site](https://evanwill.github.io/workshop-template/) demonstrates the output on gh-pages, and the content pages serve as examples.
+# Call for Papers
 
-Overview:
+All deadlines are at the end of the day (AOE).
 
-1. Copy the code to your own repository by clicking the green "Use this template" button on [workshop-template](https://github.com/evanwill/workshop-template) (alternatively, import the [repository](https://github.com/evanwill/workshop-template) on GitHub or manually copy the files into a new repo).
-2. Clone to your local machine, or work on the GitHub web interface to edit files.
-3. Edit the `_config.yml` with your info.
-4. Edit the content pages in markdown.
-5. Add images to the "images" folder.
-5. Push to GitHub (or commit on the web interface).
-6. In your repo's settings, activate gh-pages, using main branch.
+> Submission deadline:  .
+>  
+> Notification of acceptance:  .
+> 
+> Camera-ready deadline: .
+> 
+> Workshop Day: .
 
-## Config
+<!-- **_A full call for papers will be forthcoming shortly._** -->
 
-Edit the `_config.yml` to get your workshop website set up.
+## Solicitied topics, including but not limited to:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-Pellentesque eu velit felis. 
-Duis fermentum est nec mollis scelerisque. Vivamus interdum efficitur mauris, et dignissim velit egestas vitae. 
-Cras dignissim sagittis varius. Pellentesque eu laoreet dui.
+* 
 
-```
-Praesent congue:
-    eros = eget
-    accumsan euismod
-```
+## Submission Details:
 
-Praesent congue, eros eget accumsan euismod, lorem dui vulputate leo, tincidunt efficitur risus metus ut risus. 
-Sed pharetra ipsum orci, eu cursus turpis semper egestas. 
+We invite authors to submit their contributions either as regular (6-8 pages) or short papers (2-4 pages), following the [ACII 2023 Submission Guidelines.](https://acii-conf.net/2023/wp-content/uploads/2023/03/2023-ACII-Submission-Guidelines.pdf). All papers are to be submitted via the [EasyChair submission system](https://easychair.org/conferences/submissions?a=30547390) and will be peer-reviewed in a **double-blind** fashion. 
 
-> Pellentesque sodales, felis auctor auctor rutrum, velit quam interdum erat, sit amet placerat urna nisl at justo.
+<!-- **Proceedings:** The accepted workshop papers will appear in the ACII Demo and Workshop Proceedings. These could be in the form of short (2-4 pages) or long (6-8 pages) contributions. Authors will be invited to present their accepted papers in an oral presentation during the workshop.  -->
+<!-- Papers that do not meet the acceptance threshold, will be invited for poster presentations (papers not to be included in the proceedings). -->
 
-## Substep
+<!-- **Poster Session:** Researchers are further invited to submit their preliminary or work-in-progress contributions as a 1-page extended abstract for poster presentation. The authors will receive a notification of acceptance after a light review that only examines fit and factual correctness, but they will receive feedback from the audience during the workshop. These 1-page extended abstracts will not appear in the workshop proceedings. -->
 
-Nam maximus eget orci id pretium. Pellentesque feugiat mauris eu nulla viverra consectetur. Nullam rutrum augue eget mauris accumsan, ac elementum tellus lacinia. Sed pretium aliquet tortor in ornare. Sed eget aliquet metus. Integer sed arcu turpis. Duis auctor sollicitudin semper. Cras posuere, neque nec varius cursus, massa libero sodales elit, sed tempor nibh ex sit amet nisi. Quisque consequat ante quis diam malesuada, in imperdiet tortor mattis. Aliquam erat volutpat. Morbi tortor elit, sagittis quis nibh ut, gravida cursus arcu.
 
-{% include figure.html img="uidaho-workshop.jpg" alt="workshop scene" caption="Be sure to replace all the example values!" width="75%" %}
-
-Ut dapibus lectus tristique efficitur dictum. Quisque efficitur ornare sagittis. Donec ex sem, volutpat quis scelerisque quis, scelerisque non neque. Vivamus convallis felis vel eros pulvinar faucibus. Aliquam finibus pretium odio a pharetra. Nullam ac commodo magna. Fusce et feugiat sem. Nunc vitae scelerisque metus. Aenean sodales placerat mi in aliquet. Curabitur pulvinar auctor mauris quis faucibus. Ut commodo imperdiet ante, at dignissim tellus ultricies ut. Donec at lacus ultrices sem vulputate semper. Donec commodo porta nunc, non tristique mi interdum quis. Phasellus rhoncus bibendum ipsum, ac malesuada augue pulvinar et. Etiam finibus lacus massa, sit amet faucibus lorem consequat sit amet. 
