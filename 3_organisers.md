@@ -4,9 +4,9 @@ nav: true
 ---
 # Organizing Committee
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/pablo.jpg){: .align-left style="width:200px;"}
+<!-- ![image-left]({{ site.url }}{{ site.baseurl }}/images/pablo.jpg){: .align-left style="width:200px;"} -->
 
-{% include figure.html img="pablo.jpg" caption="<a href="#">Pablo Barros</a> is" width="25%" %}
+{% include figure.html img="pablo.jpg" alt="Pablo Barros" caption="<a href="#">Pablo Barros</a> is" width="25%" %}
 
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/nikhil.jpg){: .align-left style="width:200px;"}
