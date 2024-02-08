@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Dungeons, Neurons, and Dialogues: Social Dynamics and Interaction in Contextual Games" (DnD-SDIC!
+# Dungeons, Neurons, and Dialogues: Social Dynamics and Interaction in Contextual Games"
 
 {% include figure.html img="rob_dnd.jpg" alt="intro image here" width="75%" %}
 
