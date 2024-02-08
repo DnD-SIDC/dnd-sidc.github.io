@@ -5,8 +5,9 @@ nav: true
 
 # Organizing Committee
 
-{% include figure_left.html img="pablo.jpg" alt="Pablo" width="25%" %}
-<p style="float: right;width=75%"><a href="#/">Pablo Barros</a> is </p>
+<div>{% include figure_left.html img="pablo.jpg" alt="Pablo" width="24%" %}
+<p style="float: right;width=50%"><a href="#/">Pablo Barros</a> is </p>
+</div>
 
 <br/>
 {% include figure_left.html img="nikhil.jpg" alt="Nikhil" width="25%" %}
