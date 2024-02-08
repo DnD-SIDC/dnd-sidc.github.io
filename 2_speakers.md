@@ -12,16 +12,16 @@ nav: true
 
 
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/laura.jpg){: .align-left style="width:200px;"}
+<!-- ![image-left]({{ site.url }}{{ site.baseurl }}/images/laura.jpg){: .align-left style="width:200px;"} -->
 <a href="#/">Laura Triglia</a> is a passionate Ph.D. student specializing in Cognitive Robotics, Interaction, and Rehabilitation Technologies. Her research aims to investigate and thoroughly understand how mutual trust can influence the interaction between humanoid robots and humans. Having graduated in Robotics Engineering from the University of Genoa in 2022, she defended her thesis titled 'Adaptive Robotic Architecture: Exploring the Impact of Trust on Social Interaction.' This research initiative was dedicated to untangling the complexities of trust dynamics within interactions between humans and robots.
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/matthias.jpg){: .align-left style="width:200px;"}
+<!-- ![image-left]({{ site.url }}{{ site.baseurl }}/images/matthias.jpg){: .align-left style="width:200px;"}
 <a href="#">Matthias Kerzel</a> is 
 
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/sven.jpg){: .align-left style="width:200px;"}
 <a href="#">Sven Magg</a> is 
-
+ -->
 --------------------------------------
 
 # Program Committee
