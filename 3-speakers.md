@@ -5,7 +5,7 @@ nav: true
 
 # Organizing Committee
 
-{% include figure_left.html img="pablo.jpg" alt="Pablo" width="25%" %}
+{% include figure_left.html img="pablo.jpg" alt="Pablo" width="25%" caption="<a href="#/">Pablo Barros</a> is" %}
 <p style="float: right;width=75%"><a href="#/">Pablo Barros</a> is </p>
 
 <br/>
