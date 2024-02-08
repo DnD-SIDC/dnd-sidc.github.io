@@ -5,7 +5,7 @@ nav: true
 # Organizing Committee
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/pablo.jpg){: .align-left style="width:200px;"}
-
+<!-- {% raw %}{% include figure.html img="my-cat.jpg" alt="cat" caption="My cat" width="50%" %}{% endraw %}` -->
 <!-- {% include figure.html img="pablo.jpg" alt="Pablo Barros" caption="<a href="#">Pablo Barros</a> is" width="200px" %} -->
 
 <!-- {% include figure.html img="nikhil.jpg" alt="Nikhil Churamani" caption="<a href="#">Pablo Barros</a> is" width="200px" %} -->

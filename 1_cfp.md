@@ -8,9 +8,9 @@ nav: true
 
 All deadlines are at the end of the day (AOE).
 
-> Submission deadline:  .
+> Submission deadline: **16 May, 2024** .
 >  
-> Notification of acceptance:  .
+> Notification of acceptance:  **17 June, 2024**.
 > 
 > Camera-ready deadline: .
 > 
