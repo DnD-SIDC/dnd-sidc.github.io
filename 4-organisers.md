@@ -3,11 +3,15 @@ title: Organisers
 nav: true
 ---
 
-# Organizing Committee
+# Organising Committee
 
-{% include figure_left.html img="pablo.jpg" alt="Pablo" width="24%" %}
-<a href="#/">Pablo Barros</a> is
-
+<!-- {% include figure_left.html img="pablo.jpg" alt="Pablo" width="24%" %} -->
+<table>
+  <tr>
+    <td><img src="pablo.jpg" alt="Pablo"></td>
+    <td><p><a href="#/">Pablo Barros</a> is</p></td>
+  </tr>
+</table>
 <br/>
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/pablo.jpg){: .align-left style="width:200px;"}
