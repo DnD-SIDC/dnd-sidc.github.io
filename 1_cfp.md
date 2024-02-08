@@ -3,7 +3,6 @@ title: Call for Papers
 nav: true
 ---
 
-<br>
 
 # Call for Papers
 
@@ -25,7 +24,7 @@ All deadlines are at the end of the day (AOE).
 
 ## Submission Details:
 
-We invite authors to submit their contributions either as regular (6-8 pages) or short papers (2-4 pages), following the [ACII 2023 Submission Guidelines.](https://acii-conf.net/2023/wp-content/uploads/2023/03/2023-ACII-Submission-Guidelines.pdf). All papers are to be submitted via the [EasyChair submission system](https://easychair.org/conferences/submissions?a=30547390) and will be peer-reviewed in a **double-blind** fashion. 
+We invite authors to submit their contributions either as regular (6-8 pages) or short papers (2-4 pages), following the [ACII 2023 Submission Guidelines.](https://acii-conf.net/2023/wp-content/uploads/2024/03/2024-ACII-Submission-Guidelines.pdf). All papers are to be submitted via the [EasyChair submission system](https://easychair.org/conferences/submissions?a=30547390) and will be peer-reviewed in a **double-blind** fashion. 
 
 <!-- **Proceedings:** The accepted workshop papers will appear in the ACII Demo and Workshop Proceedings. These could be in the form of short (2-4 pages) or long (6-8 pages) contributions. Authors will be invited to present their accepted papers in an oral presentation during the workshop.  -->
 <!-- Papers that do not meet the acceptance threshold, will be invited for poster presentations (papers not to be included in the proceedings). -->
