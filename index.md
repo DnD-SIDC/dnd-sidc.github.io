@@ -2,33 +2,10 @@
 title: Home
 ---
 
-# Workshop Template!
+# Dungeons, Neurons, and Dialogues: Social Dynamics and Interaction in Contextual Games" (DnD-SDIC!
 
-{% include figure.html img="rob_dnd.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="rob_dnd.jpeg" alt="intro image here" caption="Library workshop" width="75%" %}
 
-A minimal Jekyll theme for creating workshop websites.
+The "Dungeons, Neurons, and Dialogues: Social Dynamics and Interaction in Contextual Games" (DnD-SDIC) workshop aims to explore the forefront of affective computing by integrating advanced computational, psychological, and interaction solutions into context-based game interactions to simulate and analyze complex social interactions and dynamics. This workshop is proposed for the Affective Computing and Intelligent Interaction (ACII) 2024 conference, reflecting its mission to advance research in intelligent systems that can perceive, express, or utilize affective phenomena.
 
-*Add your workshop abstract here!*
-
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
-
-*See also:* [workshop-template-b](https://evanwill.github.io/workshop-template-b/), Bootstrap version.
-
-<div class="toc" markdown="1">
-## Contents:
-
-{% for lesson in site.pages %}
-{% if lesson.nav == true %}- [{{ lesson.title }}]({{ lesson.url | relative_url }}){% endif %}
-{% endfor %}
-</div>
-
-Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/), {{ site.pub_year }}.
- 
-> built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
->
-> images and content: cc-by-sa <a href="https://github.com/{{ site.github_username }}">{{ site.author }}</a> {{ site.pub_year}} (get [source code]({{ site.repo }})).
-> Last build date: {{ site.time | date: "%Y-%m-%d" }}.
->
-> <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" alt="Creative Commons License" /></a>
+Contextual games like role-playing games offer rich, narrative-driven environments that are ideal for studying and modeling social constructs such as empathy, rivalry, trust, engagement, and competitiveness. These games require players to navigate complex emotional landscapes, make strategic decisions based on social cues, and engage in deep narrative experiences—all within a structured but highly flexible environment. By inserting intelligent agents and robots into these scenarios, researchers can investigate how these systems can understand and replicate human social behaviors, adapt to emotional contexts, and contribute to shared experiences in meaningful ways.
