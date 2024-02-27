@@ -5,7 +5,8 @@ nav: true
 
 # Keynote Speakers
 
-<table>
+Coming Soon..
+<!-- <table>
   <tr>
     <td><img src="/images/pablo.jpg" width="500px;" /></td>
     <td><p><a href="#/">Pablo Barros</a> is</p></td>
@@ -30,9 +31,4 @@ nav: true
     <td><p><a href="#/">Sven Magg</a> is .</p></td>
   </tr>
 </table>
-
---------------------------------------
-
-# Program Committee
-
-TBA
+ -->
