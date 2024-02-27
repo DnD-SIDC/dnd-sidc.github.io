@@ -15,7 +15,6 @@ Camera-ready deadline: **1 August, 2024**.
  
 Workshop Day: **15 September, 2024**.
 
-<!-- **_A full call for papers will be forthcoming shortly._** -->
 
 ## Topics of Interest, including but not limited to:
 
