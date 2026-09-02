@@ -526,6 +526,28 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 20px;
 }
 
+#intro .event-details {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+  margin-top: 24px;
+}
+
+#intro .event-details span {
+  color: #fff;
+  background: rgba(6, 12, 34, 0.78);
+  border: 1px solid rgba(28, 190, 225, 0.75);
+  border-radius: 24px;
+  padding: 9px 16px;
+  font-weight: 600;
+}
+
+#intro .event-details i {
+  color: #1cbee1;
+  margin-right: 7px;
+}
+
 #intro .play-btn {
   width: 94px;
   height: 94px;
@@ -749,6 +771,80 @@ body.mobile-nav-active #mobile-nav-toggle {
   bottom: 0;
 }
 
+#speakers .keynote-profile {
+  align-items: flex-start;
+}
+
+#speakers .keynote-speaker {
+  border-radius: 4px;
+}
+
+#speakers .keynote-speaker img {
+  width: 100%;
+}
+
+#speakers .keynote-copy h3 {
+  color: #0e1b4d;
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 1.3;
+  margin-bottom: 18px;
+}
+
+#speakers .keynote-copy p {
+  color: #2f3138;
+  line-height: 1.75;
+  text-align: justify;
+}
+
+#speakers .keynote-copy .keynote-label {
+  color: #1c9fbd;
+  font-family: "Raleway", sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  margin-bottom: 5px;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+/*--------------------------------------------------------------
+# Accepted Papers Section
+--------------------------------------------------------------*/
+
+#papers {
+  padding: 60px 0;
+  background: #f6f7fd;
+}
+
+#papers .accepted-paper {
+  align-items: flex-start;
+  background: #fff;
+  border-left: 4px solid #1cbee1;
+  border-radius: 4px;
+  box-shadow: 0 4px 20px rgba(6, 12, 34, 0.08);
+  display: flex;
+  gap: 18px;
+  margin-bottom: 18px;
+  padding: 24px;
+}
+
+#papers .paper-number {
+  background: #0e1b4d;
+  border-radius: 18px;
+  color: #fff;
+  flex: 0 0 auto;
+  font-weight: 700;
+  padding: 5px 12px;
+}
+
+#papers .accepted-paper h3 {
+  color: #0e1b4d;
+  font-size: 19px;
+  line-height: 1.45;
+  margin: 1px 0 0;
+}
+
 #speakers-details {
   padding: 60px 0;
 }
@@ -851,6 +947,54 @@ body.mobile-nav-active #mobile-nav-toggle {
 #schedule .schedule-item time {
   padding-bottom: 5px;
   display: inline-block;
+}
+
+#schedule .schedule-item .duration {
+  color: #6f7287;
+  display: block;
+  font-size: 13px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+#schedule .featured-session {
+  background: #f6f7fd;
+  border-left: 4px solid #1cbee1;
+}
+
+#schedule .schedule-papers {
+  color: #152b79;
+  margin: 12px 0 0;
+  padding-left: 20px;
+}
+
+#schedule .schedule-papers li {
+  line-height: 1.5;
+  margin-bottom: 8px;
+}
+
+@media (max-width: 767px) {
+  #intro .event-details {
+    align-items: center;
+    flex-direction: column;
+  }
+
+  #papers .accepted-paper {
+    display: block;
+  }
+
+  #papers .accepted-paper h3 {
+    margin-top: 14px;
+  }
+
+  #speakers .keynote-copy p {
+    text-align: left;
+  }
+
+  #schedule .schedule-item .duration {
+    display: inline-block;
+    margin-left: 8px;
+  }
 }
 
 #schedule .schedule-item .speaker {
